@@ -1,0 +1,13 @@
+/home/guzmandp/Área de Trabalho/Ocean/net/bin/Debug/netcoreapp3.1/net
+/home/guzmandp/Área de Trabalho/Ocean/net/bin/Debug/netcoreapp3.1/net.deps.json
+/home/guzmandp/Área de Trabalho/Ocean/net/bin/Debug/netcoreapp3.1/net.runtimeconfig.json
+/home/guzmandp/Área de Trabalho/Ocean/net/bin/Debug/netcoreapp3.1/net.runtimeconfig.dev.json
+/home/guzmandp/Área de Trabalho/Ocean/net/bin/Debug/netcoreapp3.1/net.dll
+/home/guzmandp/Área de Trabalho/Ocean/net/bin/Debug/netcoreapp3.1/net.pdb
+/home/guzmandp/Área de Trabalho/Ocean/net/obj/Debug/netcoreapp3.1/net.csprojAssemblyReference.cache
+/home/guzmandp/Área de Trabalho/Ocean/net/obj/Debug/netcoreapp3.1/net.AssemblyInfoInputs.cache
+/home/guzmandp/Área de Trabalho/Ocean/net/obj/Debug/netcoreapp3.1/net.AssemblyInfo.cs
+/home/guzmandp/Área de Trabalho/Ocean/net/obj/Debug/netcoreapp3.1/net.csproj.CoreCompileInputs.cache
+/home/guzmandp/Área de Trabalho/Ocean/net/obj/Debug/netcoreapp3.1/net.dll
+/home/guzmandp/Área de Trabalho/Ocean/net/obj/Debug/netcoreapp3.1/net.pdb
+/home/guzmandp/Área de Trabalho/Ocean/net/obj/Debug/netcoreapp3.1/net.genruntimeconfig.cache
